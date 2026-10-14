@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj": {}
+    "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj": {}
   },
   "projects": {
-    "C:\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj": {
+    "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj",
+        "projectUniqueName": "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj",
         "projectName": "Monopoly.Core",
-        "projectPath": "C:\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Monopoly\\src\\Monopoly.Core\\obj\\",
+        "projectPath": "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\src\\Monopoly.Core\\Monopoly.Core.csproj",
+        "packagesPath": "C:\\Users\\alcan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\src\\Monopoly.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Monopoly\\NuGet.Config",
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\NuGet.Config",
+          "C:\\Users\\alcan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Monopoly\\tools\\godot\\Godot_v4.7.2-stable_mono_win64\\GodotSharp\\Tools\\nupkgs": {}
+          "C:\\Users\\alcan\\Downloads\\DSA\\Monopoly\\tools\\godot\\Godot_v4.7.2-stable_mono_win64\\GodotSharp\\Tools\\nupkgs": {}
         },
         "frameworks": {
           "net10.0": {
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
